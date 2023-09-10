@@ -8,10 +8,10 @@ const WineData = () => {
    console.log(data,'try')
 
     useEffect(() => {
-      // Load your dataset here, replace sampleData with your actual data
+      
       const sampleData = winedata;
   
-      // Calculate Gamma for each data point
+      //Gamma for each data point
       const newData = sampleData.map((row) => ({
         ...row,
         Gamma: (row.Ash * row.Hue) / row.Magnesium,
