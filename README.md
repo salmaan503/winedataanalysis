@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+#Output Screenshot
+# Wine Statics
+![image](https://github.com/salmaan503/winedataanalysis/assets/79823521/7177d83f-f709-4ac1-b55a-f1fa104a3b12)
+
+
+# Wine Data analysis
+![image](https://github.com/salmaan503/winedataanalysis/assets/79823521/23ac0388-fd3e-4ec4-9c6d-f4f10c147b4b)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
