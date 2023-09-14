@@ -6,7 +6,8 @@
 
 
 # Wine Data analysis
-![image](https://github.com/salmaan503/winedataanalysis/assets/79823521/23ac0388-fd3e-4ec4-9c6d-f4f10c147b4b)
+![image](https://github.com/salmaan503/winedataanalysis/assets/79823521/e83b8299-cfb7-4102-8cce-9b1a01c8e229)
+
 
 
 
